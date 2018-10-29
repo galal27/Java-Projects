@@ -1,4 +1,3 @@
-//Solution to assignment 4 by Marwan Galal (12mmg3)
 //The hierarchy was created to be versatile and includes classes/hierarchy stages that may not have been 
 //necessary for this assignment but would allow for good organization when adding more items than 
 //those that have been requested.

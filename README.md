@@ -1,0 +1,3 @@
+All projects in this repo were completed as part of an Object Oriented Programming (Java) course at Queen's University, taught by Professor Alan McLeod. I would like to thank him for a wonderful course that has given me a solid OOP foundation. 
+
+The course started with a brief look at fundamental Java. OOP topics were covered, along with mechanisms for user interaction, file input and output, error handling and JUnit Testing. Some of the new features of Java 8 were also discussed along the way. Writing GUI ("Graphical User Interface") applications with JavaFX provided practice with all course topics.

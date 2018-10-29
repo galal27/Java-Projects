@@ -1,6 +1,5 @@
 
-//	Marwan Galal		12mmg3
-// This is my solution to Assignment 1: The Game of Pig - Big Pig
+//	The Game of Pig - Big Pig
 
 import java.util.InputMismatchException;
 import java.util.Random;
